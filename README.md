@@ -1,15 +1,15 @@
-## TALEBROOK ROLEPLAY - ÚTMUTATÓ
+# TALEBROOK ROLEPLAY - ÚTMUTATÓ
 
 Ez a Github projekt a Talebrook RedM játékszerver közösségének a szerverútmutatójának automatikus, felhőből történő adatszolgáltatása miatt jött létre.
 
 Weboldalak, ahonnan lekérhetőek illusztrációk a menüpontokhoz: 
 - https://www.rockstargames.com/reddeadredemption2/screens
 
-## Új guide menü és szövegrörzs létrehozása
+# Új guide menü és szövegrörzs létrehozása
 
 1. [primary.json](https://github.com/talebrook/tbrp_guides/blob/main/categories/primary.json) fájl konfigurálása
 
-# Új elem felvételére példa:
+## Új elem felvételére példa:
 ```
       {
         "title"       : "ÚJ VAGY A SZERVEREN?",
@@ -21,7 +21,7 @@ Weboldalak, ahonnan lekérhetőek illusztrációk a menüpontokhoz:
 
 2. [html fájlok](https://github.com/talebrook/tbrp_guides/tree/main/guides) létrehozása
 
-# Adatok és jelentései:
+## Adatok és jelentései:
 
 Youtube link felépítése: `https://www.youtube-nocookie.com/embed/<VIDEO_AZONOSITO>?controls=0'`
 
@@ -34,12 +34,12 @@ title='Talebrook Intro #1'
 frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
 ```
 
-# Szövegtörzs minta és magyarázat:
+## Szövegtörzs minta és magyarázat:
 
 - Piros betűtípushoz használd ezt a struktúrát: `<b class='text-danger'> SZÖVEG </b>`
 - Sortöréshez használd ezt a kódot: `<br>`
 
-# Példa:
+## Példa:
 ```
 <b class='text-danger'>Előszöris köszöntelek itt közöttünk! </b> <br><br> 
 Most érkeztél a városba, idegen? A Talebrook nem egy sima szerver, hanem élő vadnyugati világ. 
@@ -49,5 +49,5 @@ Kattints végig a kategóriákat és gyűjts be minden információt a kezdéshe
 Minél többet tudsz, annál mélyebb szerepjáték vár rád!
 ```
 
-# Fejlesztők
+## Fejlesztők
 - Szileni
