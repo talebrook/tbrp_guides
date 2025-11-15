@@ -1,0 +1,21 @@
+# Új vagy a szerveren?
+
+Üdv a **Talebrook** világában!  
+Ha most kezded, érdemes ezeket végigolvasni:
+
+## 1. Első belépés
+
+- Csatlakozz a Discordra
+- Olvasd el a szabályzatot
+- Válassz karaktert a szabályok szerint
+
+## 2. Hol találsz segítséget?
+
+- Discord: #help, #kerdesek
+- Ingame: /report, /support
+
+Minél többet tudsz, annál mélyebb szerepjáték vár rád!
+
+{
+    "content"     : "<iframe class='mb-2' width='100%' height='315' src='https://www.youtube-nocookie.com/embed/VXusKSzV2as?controls=0' title='Talebrook Intro #1' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><b class='text-danger'>Előszöris köszöntelek itt közöttünk! </b> <br><br> Most érkeztél a városba, idegen? A Talebrook nem egy sima szerver, hanem élő vadnyugati világ. Mielőtt nyeregbe pattansz, nézz körül az útmutatók között: megtalálod, hogyan működnek a boltok, a munkák, a túlélés, a törvény és az alvilág. Kattints végig a kategóriákat és gyűjts be minden információt a kezdéshez: 'A kezdet', 'A túlélés alapjai', 'Banditák és veszélyek', 'Tárgyak, tárolás és a ló szerepe', 'Szállás és pihenés', 'Orvosok és gyógyulás', továbbá kezdő tippek, szabályok, pénzkereset, frakciók, bizniszek és sok más egyedi rendszerek várnak rád! <br><br> Minél többet tudsz, annál mélyebb szerepjáték vár rád!"
+}
